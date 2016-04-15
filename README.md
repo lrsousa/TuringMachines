@@ -5,7 +5,7 @@
 	
 
 
-Turing Machines using Jfalp 8:
+Turing Machines using Jfalp 8 with a single tape:
   - exponentiation
   - factorial
   - fibonacci
