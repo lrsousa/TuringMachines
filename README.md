@@ -13,4 +13,4 @@ Turing Machines using Jfalp 8 with a single tape:
 ----------------
 
 After performing the task.
-All the tape is clean and only de result is displayed.
+All the tape is clean and only the result is displayed.
